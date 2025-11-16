@@ -116,8 +116,10 @@ export const Header: React.FC = () => {
               </Button>
             </div>
             <Button className="bg-linear-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 transition-all duration-300 transform hover:scale-105">
-              <Download className="mr-2 h-4 w-4" />
-              Resume
+              <a href="/resume.pdf" download>
+                <Download className="mr-2 h-4 w-4" />
+                Resume
+              </a>
             </Button>
           </div>
 
