@@ -220,7 +220,7 @@ export const Home: React.FC = () => {
                 {/* Bigger Rounded Full Image */}
                 <div className="relative w-96 h-96 rounded-full border-8 border-white dark:border-gray-800 shadow-2xl overflow-hidden bg-linear-to-br from-blue-100 to-purple-100 dark:from-gray-800 dark:to-purple-900">
                   <img
-                    src="/src/assets/images/profile-photo.png"
+                    src="/profile-photo.png"
                     alt="Ehtesham Munawar"
                     className="w-full h-full object-cover object-center transition-transform duration-700 hover:scale-105"
                     style={{ objectPosition: "center 30%" }}
