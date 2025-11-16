@@ -25,8 +25,8 @@ export const projects: Project[] = [
         description: "Frontend application for managing student records",
         longDescription: "A comprehensive student management system built with React and TypeScript. Features local storage persistence, data validation, and an elegant UI for managing student information efficiently.",
         technologies: ["React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Local Storage"],
-        githubUrl: "https://github.com/Shami3166/student-management-system",
-        liveUrl: "#",
+        githubUrl: "https://github.com/Shami3166/Student-Management-System",
+        liveUrl: "https://managementstudents.netlify.app/",
         images: ["/src/assets/images/projects/student-management-1.png"],
         category: "frontend",
         features: [
@@ -43,8 +43,8 @@ export const projects: Project[] = [
         description: "Text transformation utility for various case formats",
         longDescription: "A versatile text conversion tool that transforms text between different case formats including uppercase, lowercase, camelCase, PascalCase, and more. Built with modern React practices.",
         technologies: ["React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Vite"],
-        githubUrl: "https://github.com/Shami3166/case-converter-tool",
-        liveUrl: "#",
+        githubUrl: "https://github.com/Shami3166/Case_Conversion",
+        liveUrl: "https://case-conversion.vercel.app/",
         images: ["/src/assets/images/projects/case-converter-1.png"],
         category: "frontend",
         features: [
@@ -61,8 +61,8 @@ export const projects: Project[] = [
         description: "Advanced text analysis and word counting application",
         longDescription: "A feature-rich word counter that provides detailed text statistics including character count, word count, sentence count, and reading time estimates. Perfect for writers and content creators.",
         technologies: ["React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Vite"],
-        githubUrl: "https://github.com/Shami3166/word-counter-tool",
-        liveUrl: "#",
+        githubUrl: "https://github.com/Shami3166/WordCounter",
+        liveUrl: "https://text-counter-tool.vercel.app/",
         images: ["/src/assets/images/projects/word-counter-1.png"],
         category: "frontend",
         features: [
